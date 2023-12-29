@@ -26,7 +26,11 @@ Given that sports clothing is a giant sector by its own, worth nearly $193 billi
 
 There were four fundamental datasets harnessed for this analysis:
 
-- 
+- brands.csv
+- finance.csv
+- info.csv
+- reviews.csv
+  
 
 ### Tools
 
@@ -36,11 +40,12 @@ There were four fundamental datasets harnessed for this analysis:
 
 ### Data Preparation
 
-The following data preparation tasks were undertaken:
+No data preparation tasks were required as all the data provided had already been cleaned out prior.
 
 
 
 ### Exploratory Data Analysis
+
 
 
 
