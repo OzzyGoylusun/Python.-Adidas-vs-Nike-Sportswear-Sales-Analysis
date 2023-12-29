@@ -55,8 +55,22 @@ By analysing all the four datasets, EDA sought to answer the following key quest
 
 ### Data Analysis
 
-```python
+When I needed to separate footwear products of both brands from their clothing products, I first created a keyword in the form of a string and then subset all rows based on the condition.
 
+Afterwards, I created a counter variable that shall retain all rows whose product ids are not found in our shoes_df to be able to separate both types of sportswear from one another.
+
+```python
+footwear_keyword = "shoe*|trainer*|foot*"
+
+# Filtering for footwear products
+
+shoes_df = merged_df[merged_df['description'].str.contains(footwear_keyword)]
+footwear_filter = list(shoes_df['product_id'])
+
+# Filtering for clothing product
+
+clothing_df = merged_df[~merged_df.isin(footwear_filter)] #It still returns all, but non-matching ones get null
+clothing_df.dropna(inplace=True)
 ```
 
 ### Findings
