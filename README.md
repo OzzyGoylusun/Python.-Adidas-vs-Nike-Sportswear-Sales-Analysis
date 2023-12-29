@@ -13,13 +13,13 @@
  alt="Online Sportswear Shop">
 </p
 
-This data analysis project is designed to assist an online sports clothing company particularly with increasing its revenue by making comparisons between sportswear products of Adidas and Nike brands as well as by looking into the total volume of products and median revenue between clothing and footwear.
+This data analysis project is designed to assist an online sports clothing company particularly with increasing its revenue by making comparisons between sportswear products of Adidas and Nike brands. It also aims at looking into the total volume of products and median revenue between clothing and footwear.
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Adidas%20%26%20Nike.png"  alt="Online Sportswear Shop" width="400">
 </p>
 
-Given that sports clothing is a giant sector by its own, worth nearly $193 billion in 2021, also having strong growth predictions on its side for the next decade, this analysis also highlights the importance of continously paying close attention to the growing data that the online firm maintains to grow the business.
+Given that sports clothing is a giant sector by its own, worth nearly $193 billion in 2021, also having strong growth predictions on its side for the next decade, this analysis highlights the importance of continously paying close attention to the growing data that the online firm maintains to grow the business.
 
 
 ### Data Sources
