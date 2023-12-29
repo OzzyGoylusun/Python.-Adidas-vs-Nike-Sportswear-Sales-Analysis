@@ -66,4 +66,4 @@ The following data preparation tasks were undertaken:
 ### References
 
 1. [DataCamp](https://www.datacamp.com/)
-2. 
+2. [Statista: Forecast revenue of the global sports apparel market from 2023 to 2030](https://www.statista.com/statistics/254489/total-revenue-of-the-global-sports-apparel-market/)
