@@ -88,7 +88,8 @@ Based on the findings above, I propose the following recommendations:
 
 ### Limitations
 
-The accuracy of the findings and effectiveness of the proposed suggestions are inherently limited by the quality of the datasets provided.
+- The accuracy of the findings and effectiveness of the proposed suggestions are inherently limited by the quality of the datasets provided.
+- It is unknown as to the recency of all the data due to the lack of datetime-related information in the datasets.
 
 
 ### References
