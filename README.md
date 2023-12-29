@@ -46,19 +46,25 @@ No data preparation tasks were required as all the data provided had already bee
 
 ### Exploratory Data Analysis
 
+By analysing all the four datasets, EDA sought to answer the following key questions:
 
+1. What is the volume of products and average revenue for Adidas and Nike products based upon listing price quartiles classified by four pre-determined tags (e.g., Budget, Elite)?
+2. Do there any differences exist between the word count of a product's description and its mean rating?
+3. How does the volume of products and median revenue vary between clothing and footwear?
 
 
 ### Data Analysis
-
 
 ```python
 
 ```
 
-
 ### Findings
 
+The critical analysis results are summarised as follows:
+
+1. Adidas's Elite products have produced the highest mean revenue by selling products that are 50% higher than the average number of products being sold.
+2. 
 
 
 ### Recommendations
@@ -67,7 +73,7 @@ No data preparation tasks were required as all the data provided had already bee
 
 ### Limitations
 
-
+The accuracy of the findings and effectiveness of the proposed suggestions are inherently limited by the quality of the datasets provided.
 
 
 ### References
