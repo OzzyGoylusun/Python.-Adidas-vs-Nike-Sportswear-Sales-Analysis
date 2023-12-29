@@ -67,7 +67,7 @@ The critical analysis results are summarised as follows:
 - 
   
 <p align="center">
-  <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Comparison%20of%20Figures%20between%20Footwear%20and%20Clothing.png" alt="Comparison of Figures between Footwear and Clothing">
+  <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Mean%20Revenue%20by%20Price%20Category%20between%20Adidas%20and%20Nike.png" alt="Mean Revenue by Price Category between Adidas and Nike">
 </p>
 
 2. The online shop has produced the highest mean revenue via **Adidas Elite** items also by selling those products that are 50% higher than the average number of products being sold.3
