@@ -65,8 +65,10 @@ The critical analysis results are summarised as follows:
 
 1. The online shop has produced the highest mean revenue via **Adidas Elite** items also by selling those products that are 50% higher than the average number of products being sold.
 2. All Adidas products have achieved a whopping **350% higher mean revenue** compared to its Nike counterparts.
-3. It was rather interesting to note that the higher description length a product has, the higher online rating it has achieved, provided by online customers.
-4. 
+3. It was rather interesting to note that the higher description length a product has, the higher online rating it has achieved by online customers.
+4. Both the volume (number) of and the median revenue for **footwear products** are significantly higher than the equivalent parameter values for clothing products.
+
+   
 
 
 ### Recommendations
