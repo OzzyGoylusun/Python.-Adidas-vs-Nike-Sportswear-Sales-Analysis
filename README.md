@@ -63,16 +63,20 @@ By analysing all the four datasets, EDA sought to answer the following key quest
 
 The critical analysis results are summarised as follows:
 
-1. There is a massive gap in sales across all budget categories between Adidas and Nike products, as shown below:
+1. There is a massive gap in both mean revenue and number of products sold across all budget categories between Adidas and Nike products, as shown below:
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Mean%20Revenue%20by%20Price%20Category%20between%20Adidas%20and%20Nike.png" alt="Mean Revenue by Price Category between Adidas and Nike" width='400'>
   
-<p align="center">
-  <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Mean%20Revenue%20by%20Price%20Category%20between%20Adidas%20and%20Nike.png" alt="Mean Revenue by Price Category between Adidas and Nike" width='700'>
-</p>
+  <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Mean%20Revenue%20by%20Price%20Category%20between%20Adidas%20and%20Nike.png" alt="Mean Revenue by Price Category between Adidas and Nike" width='400'>
+</div>
 
 2. The online shop has produced the highest average revenue via **Adidas Elite** items also by selling those products that are 50% higher than the average number of products being sold.
-3. In this respect, all Adidas products have achieved a whopping **350% higher mean revenue** compared to its Nike counterparts.
-4. It was rather interesting to note that the higher description length a product has, the higher online rating it has achieved by online customers.
-5. Both the volume (number) of and the median revenue for **footwear products** are significantly higher than the equivalent parameter values for clothing products.
+
+3. 
+4. In this respect, all Adidas products have achieved a whopping **350% higher mean revenue** compared to its Nike counterparts.
+5. It was rather interesting to note that the higher description length a product has, the higher online rating it has achieved by online customers.
+6. Both the volume (number) of and the median revenue for **footwear products** are significantly higher than the equivalent parameter values for clothing products.
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Comparison%20of%20Figures%20between%20Footwear%20and%20Clothing.png" alt="Comparison of Figures between Footwear and Clothing" width='700'>
