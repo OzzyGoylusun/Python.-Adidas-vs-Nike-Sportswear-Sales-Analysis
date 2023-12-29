@@ -24,7 +24,9 @@ Given that sports clothing is a giant sector by its own, worth nearly $193 billi
 
 ### Data Sources
 
+There were four fundamental datasets harnessed for this analysis:
 
+- 
 
 ### Tools
 
