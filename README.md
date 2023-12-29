@@ -1,4 +1,4 @@
-# Python. Adidas vs Nike Sportswear Sales Analysis
+# Adidas vs Nike Sportswear Sales Analysis
 
 ## Table of Contents
 
