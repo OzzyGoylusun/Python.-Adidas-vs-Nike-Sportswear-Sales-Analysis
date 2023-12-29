@@ -120,3 +120,4 @@ Based on the findings above, I propose the following recommendations:
 
 1. [DataCamp](https://www.datacamp.com/)
 2. [Statista: Forecast revenue of the global sports apparel market from 2023 to 2030](https://www.statista.com/statistics/254489/total-revenue-of-the-global-sports-apparel-market/)
+3. [Seaborn: Regression Plot](https://seaborn.pydata.org/generated/seaborn.regplot.html)
