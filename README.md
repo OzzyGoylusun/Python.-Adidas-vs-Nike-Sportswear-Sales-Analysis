@@ -75,7 +75,7 @@ clothing_df.dropna(inplace=True)
 
 ### Findings
 
-The critical analysis results are summarised as follows:
+The critical analysis results are summarised for the e-commerce firm as follows:
 
 1. There is a massive gap in both average revenue and number of distinct products sold across all price categories between Adidas and Nike, as shown below:
 
