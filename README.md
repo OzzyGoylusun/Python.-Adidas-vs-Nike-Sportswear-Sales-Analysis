@@ -75,7 +75,7 @@ The critical analysis results are summarised as follows:
 
 2. The online shop has produced the highest average revenue via **Adidas Elite** items also by selling those products that are 50% higher than the average number of products being sold.
 3. All Adidas products have achieved a whopping **350% higher mean revenue** compared to its Nike counterparts.
-4. It was rather interesting to note that the higher description length a particular product has, the higher online rating it has achieved, rated by online customers:
+4. It was rather interesting to note that the higher description length a particular product has, the higher online rating it has achieved, attributed by online customers. The scatterplot below demonstrates that there is a strong correlation between these two variables:
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Correlation%20Between%20Desc%20Length%20and%20Mean%20Rating.png" alt="Correlation between Description Length and Mean Rating of a Product" width='600'>
