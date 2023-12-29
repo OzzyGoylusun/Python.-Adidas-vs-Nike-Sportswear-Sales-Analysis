@@ -64,7 +64,6 @@ By analysing all the four datasets, EDA sought to answer the following key quest
 The critical analysis results are summarised as follows:
 
 1. There is a massive gap in sales across all budget categories between Adidas and Nike products, as shown below:
-- 
   
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Mean%20Revenue%20by%20Price%20Category%20between%20Adidas%20and%20Nike.png" alt="Mean Revenue by Price Category between Adidas and Nike">
