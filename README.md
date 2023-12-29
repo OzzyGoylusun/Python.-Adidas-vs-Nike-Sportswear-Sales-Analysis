@@ -77,7 +77,7 @@ clothing_df.dropna(inplace=True)
 
 The critical analysis results are summarised as follows:
 
-1. There is a massive gap in both mean revenue and number of distinct products sold across all budget categories between Adidas and Nike, as shown below:
+1. There is a massive gap in both average revenue and number of distinct products sold across all budget categories between Adidas and Nike, as shown below:
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Mean%20Revenue%20by%20Price%20Category%20between%20Adidas%20and%20Nike.png" alt="Mean Revenue by Price Category between Adidas and Nike" width='600'>
