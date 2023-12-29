@@ -55,7 +55,7 @@ By analysing all the four datasets, EDA sought to answer the following key quest
 
 ### Data Analysis
 
-When I needed to separate footwear products of both brands from their clothing counterparts, I first created a keyword in the form of a string and then subset all appropriate rows of our main DataFrame based on that condition.
+What challenged me most was when I needed to separate footwear products of both brands from their clothing counterparts, I first created a keyword in the form of a string and then subset all appropriate rows of our main DataFrame based on that condition.
 
 Afterwards, I created a counter DataFrame that shall retain all data whose product IDs are not found in our first subset DataFrame, in order to be able to separate both types of sportswear from one another.
 
