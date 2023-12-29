@@ -69,7 +69,7 @@ The critical analysis results are summarised as follows:
   <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Mean%20Revenue%20by%20Price%20Category%20between%20Adidas%20and%20Nike.png" alt="Mean Revenue by Price Category between Adidas and Nike" width='700'>
 </p>
 
-2. The online shop has produced the highest mean revenue via **Adidas Elite** items also by selling those products that are 50% higher than the average number of products being sold.3
+2. The online shop has produced the highest average revenue via **Adidas Elite** items also by selling those products that are 50% higher than the average number of products being sold.
 3. In this respect, all Adidas products have achieved a whopping **350% higher mean revenue** compared to its Nike counterparts.
 4. It was rather interesting to note that the higher description length a product has, the higher online rating it has achieved by online customers.
 5. Both the volume (number) of and the median revenue for **footwear products** are significantly higher than the equivalent parameter values for clothing products.
