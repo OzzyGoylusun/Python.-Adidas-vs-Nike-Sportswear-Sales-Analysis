@@ -66,9 +66,9 @@ The critical analysis results are summarised as follows:
 1. There is a massive gap in both mean revenue and number of products sold across all budget categories between Adidas and Nike products, as shown below:
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Mean%20Revenue%20by%20Price%20Category%20between%20Adidas%20and%20Nike.png" alt="Mean Revenue by Price Category between Adidas and Nike" width='400'>
+  <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Mean%20Revenue%20by%20Price%20Category%20between%20Adidas%20and%20Nike.png" alt="Mean Revenue by Price Category between Adidas and Nike" width='600'>
   
-  <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Mean%20Revenue%20by%20Price%20Category%20between%20Adidas%20and%20Nike.png" alt="Mean Revenue by Price Category between Adidas and Nike" width='400'>
+  <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Number%20of%20Different%20Products%20by%20PC.png" alt="No of Products by Price Category between Adidas and Nike" width='600'>
 </div>
 
 2. The online shop has produced the highest average revenue via **Adidas Elite** items also by selling those products that are 50% higher than the average number of products being sold.
