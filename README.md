@@ -49,7 +49,7 @@ No data preparation tasks were required as all the data provided had already bee
 By analysing all the four datasets, EDA sought to answer the following key questions:
 
 1. What are the volume of distinct products and average revenue for Adidas and Nike-branded items, based upon listing price quartiles to be classified by four pre-determined tags (i.e., Budget, Average, Expensive, Elite)?
-2. Do there any differences exist between the word count of a product's description and its mean rating?
+2. Does there any correlation exist between the word count of a product's description and its mean rating?
 3. How does the volume of products and median revenue vary between clothing and footwear?
 
 
