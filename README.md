@@ -1,4 +1,4 @@
-# Adidas vs Nike Sportswear Sales Analysis
+# Adidas vs Nike Sportswear Product Sales Analysis
 
 ## Table of Contents
 
