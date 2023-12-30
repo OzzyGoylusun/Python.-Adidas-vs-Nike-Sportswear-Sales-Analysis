@@ -88,7 +88,7 @@ The critical analysis results are summarised as follows:
 </p>
 
 2. Adidas products have achieved a whopping **350% higher mean revenue** compared to its Nike counterparts.
-3. It was determined that the higher description length a particular product has, the higher online rating it has achieved, attributed by the firm's online customers.
+3. It was determined that the longer description length a particular product has, the higher online rating it has achieved, attributed by the firm's online customers.
    The scatterplot below demonstrates that there is a strong correlation between these two variables:
 
 <p align="center">
@@ -104,18 +104,19 @@ The critical analysis results are summarised as follows:
 
 ### Recommendations
 
-Based on the findings above, I propose the following recommendations for the firm to begin increasing its revenue: 
+Based on the findings above, I propose the following recommendations for the firm to put itself in a better position to begin increasing its revenue: 
 
-1. Shift the focus toward offering more Nike products, particularly from Budget and Elite categories to customers.
+1. Shift the focus toward offering more Nike products to customers, particularly from the Budget and Elite categories, seeing that the alrger product variety appears to have **a positive correlation with achieving higher revenue.**
 2. Continue to offer Adidas products of all categories to maintain the elevated levels of mean revenue from this brand.
-3. Consider selling significantly more clothing products by bringing the ratio of number of the different products of clothing vs footwear all the way up to 1:2 (i.e., %50 percent). The same ratio currently stands at 1:5.
+3. Undertake e-commerce customer research in an attempt to unearth the root cause(s) of the strong correlation between the long description length of products and product ratings.
+4. Consider introducing significantly higher number of clothing products by bringing the ratio of difference between clothing vs footwear-type items to 1:2 (i.e., %50 percent). The same ratio currently stands at 1:5.
 
 
 ### Limitations
 
 - The accuracy of the findings and effectiveness of the proposed suggestions are inherently limited by the quality of the datasets provided.
-- Please note that our merged DataFrame retains information of aggregated sales data for each particular product.
-- It is unknown as to the recency of all the data due to the lack of datetime-related information in the datasets.
+- Please note that our merged DataFrame retains information of aggregated sales data for each particular product. 
+- It is unknown as to the recency of all the data due to the lack of datetime parameter in the datasets.
 
 
 ### References
