@@ -95,7 +95,7 @@ The critical analysis results are summarised as follows:
   <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Correlation%20Between%20Desc%20Length%20and%20Mean%20Rating.png" alt="Correlation between Description Length and Mean Rating of a Product" width='600'>
 </p>
   
-4. Both the volume (number) of and the median revenue for **footwear products** are significantly higher than the equivalent parameter values for clothing products.
+4. Both the volume (number) of and the median revenue for **footwear products** are significantly higher than the equivalent parameter values for clothing products, irrespective of the brand.
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Comparison%20of%20Figures%20between%20Footwear%20and%20Clothing.png" alt="Comparison of Figures between Footwear and Clothing" width='700'>
