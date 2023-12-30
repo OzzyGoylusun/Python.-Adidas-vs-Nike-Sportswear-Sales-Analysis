@@ -19,7 +19,7 @@ This data analysis project is designed to assist an online sports clothing compa
   <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Adidas%20%26%20Nike.png"  alt="Online Sportswear Shop" width="400">
 </p>
 
-Given that sports clothing is a giant sector by its own, worth nearly **$193 billion in 2021***, also having strong growth predictions on its side for the next decade, this analysis aims at highlighting the importance of continously paying close attention to the growing data that the online firm maintains to further expand the business.
+Given that sports clothing is a giant sector by its own, worth nearly **$193 billion in 2021***, also having strong growth predictions on its side for the next decade, this analysis aims at highlighting the importance of continously paying close attention to the growing data that the online firm maintains to further expand the business at the maximum capacity possible.
 
 
 ### Data Sources
