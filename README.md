@@ -106,7 +106,7 @@ The critical analysis results are summarised as follows:
 
 Based on the findings above, I propose the following recommendations for the firm to put itself in a better position to begin increasing its revenue: 
 
-1. Shift the focus toward offering more Nike products to customers, particularly from the Budget and Elite categories, seeing that the alrger product variety appears to have **a positive correlation with achieving higher revenue.**
+1. Shift the focus toward offering more Nike products to customers, particularly from the Budget and Elite categories, seeing that the larger product variety appears to have **a positive correlation with achieving higher revenue.**
 2. Continue to offer Adidas products of all categories to maintain the elevated levels of mean revenue from this brand.
 3. Undertake e-commerce customer research in an attempt to unearth the root cause(s) of the strong correlation between the long description length of products and product ratings.
 4. Consider introducing significantly higher number of clothing products by bringing the ratio of difference between clothing vs footwear-type items to 1:2 (i.e., %50 percent). The same ratio currently stands at 1:5.
