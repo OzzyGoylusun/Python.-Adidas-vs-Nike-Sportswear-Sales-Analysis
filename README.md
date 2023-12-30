@@ -87,7 +87,7 @@ The critical analysis results are summarised as follows:
   <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Sales-Analysis/blob/main/Visuals/Number%20of%20Different%20Products%20by%20PC.png" alt="No of Products by Price Category between Adidas and Nike" width='600'>
 </p>
 
-2. All Adidas products have achieved a whopping **350% higher mean revenue** compared to its Nike counterparts.
+2. Adidas products have achieved a whopping **350% higher mean revenue** compared to its Nike counterparts.
 3. It was determined that the higher description length a particular product has, the higher online rating it has achieved, attributed by online customers.
    The scatterplot below demonstrates that there is a strong correlation between these two variables:
 
