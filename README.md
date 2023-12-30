@@ -88,7 +88,7 @@ The critical analysis results are summarised as follows:
 </p>
 
 2. Adidas products have achieved a whopping **350% higher mean revenue** compared to its Nike counterparts.
-3. It was determined that the higher description length a particular product has, the higher online rating it has achieved, attributed by online customers.
+3. It was determined that the higher description length a particular product has, the higher online rating it has achieved, attributed by the firm's online customers.
    The scatterplot below demonstrates that there is a strong correlation between these two variables:
 
 <p align="center">
