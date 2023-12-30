@@ -3,7 +3,7 @@
 ## Table of Contents
 
 - [Data Analysis](#data-analysis)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Exploratory Data Analysis](#exploratory-data-analysis-(EDA))
 - [Findings](#findings)
 
 ### Project Overview
@@ -44,7 +44,7 @@ No data preparation tasks were required as all the data provided had already bee
 
 
 
-### Exploratory Data Analysis
+### Exploratory Data Analysis (EDA)
 
 By analysing all the four datasets, EDA sought to answer the following key questions:
 
