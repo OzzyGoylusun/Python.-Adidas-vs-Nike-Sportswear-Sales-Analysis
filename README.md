@@ -114,6 +114,7 @@ Based on the findings above, I propose the following recommendations for the fir
 ### Limitations
 
 - The accuracy of the findings and effectiveness of the proposed suggestions are inherently limited by the quality of the datasets provided.
+- Please note that our merged DataFrame retains information of aggregated sales data for each particular product.
 - It is unknown as to the recency of all the data due to the lack of datetime-related information in the datasets.
 
 
