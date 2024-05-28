@@ -12,7 +12,7 @@
   <img src="https://github.com/OzzyGoylusun/Python.-Adidas-vs-Nike-Sportswear-Wars-Sales-Analysis/blob/main/Visuals/Online%20Sportswear%20Shop.png"
  alt="Online Sportswear Shop">
 </p
-
+  
 This data analysis project is designed to assist an online sports clothing company particularly with increasing its revenue by making comparisons between Adidas and Nike-branded sportswear products that it sells. The analysis also looks into the total volume of products and median revenue between clothing and footwear-type items.
 
 <p align="center">
